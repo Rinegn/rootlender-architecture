@@ -1,14 +1,12 @@
-﻿# RootLender Architecture Repository
+﻿# 
 
-This repository contains authoritative governance documentation for the RootLender platform.
 
-Includes:
-- Repository creation standards
-- Backend service discipline
-- Frontend UI standards
-- Automation templates
-- Governance policies
 
-All engineering repos must follow these standards.
+Generated using RootLender Frontend Generator.
 
-Owner: Rinegn
+How to run:
+
+npm install
+npm run dev
+
+After baseline verification, change repository visibility to Private.
